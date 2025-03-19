@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-19T10:03:55Z" name="Suite" finished-at="2025-03-19T10:03:55Z" duration-ms="53">
+    <groups>
+    </groups>
+    <test started-at="2025-03-19T10:03:55Z" name="Test" finished-at="2025-03-19T10:03:55Z" duration-ms="53">
+      <class name="pac2.createcampaignTest">
+        <test-method signature="createcamapaignTest()[pri:0, instance:pac2.createcampaignTest@67f639d3]" started-at="2025-03-19T10:03:55Z" name="createcamapaignTest" finished-at="2025-03-19T10:03:55Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcamapaignTest -->
+        <test-method signature="modifycampaignTest()[pri:0, instance:pac2.createcampaignTest@67f639d3]" started-at="2025-03-19T10:03:55Z" name="modifycampaignTest" finished-at="2025-03-19T10:03:55Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifycampaignTest -->
+      </class> <!-- pac2.createcampaignTest -->
+      <class name="pac1.createContactTest">
+        <test-method signature="createcontactTest()[pri:0, instance:pac1.createContactTest@290222c1]" started-at="2025-03-19T10:03:55Z" name="createcontactTest" finished-at="2025-03-19T10:03:55Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcontactTest -->
+        <test-method signature="modifycontactTest()[pri:0, instance:pac1.createContactTest@290222c1]" started-at="2025-03-19T10:03:55Z" name="modifycontactTest" finished-at="2025-03-19T10:03:55Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifycontactTest -->
+      </class> <!-- pac1.createContactTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
